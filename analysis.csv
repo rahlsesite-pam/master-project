@@ -1,0 +1,60 @@
+,Stage,Feature,Accuracy
+0,Ring,Mean Nucleosome Occupancy: Promoter,0.7748538011695907
+1,Ring,Mean Nucleosome Occupancy: Gene_Body,0.7748538011695907
+2,Ring,Mean bartfaiH3K4me3: Promoter,0.7675438596491229
+3,Ring,Mean bartfaiH3K4me3: Gene_Body,0.7690058479532164
+4,Ring,Mean H3K9Ac: Promoter,0.7690058479532164
+5,Ring,Mean H3K9Ac: Gene_Body,0.77046783625731
+6,Ring,Mean H2Az: Promoter,0.7733918128654971
+7,Ring,Mean H2Az: Gene_Body,0.7807017543859649
+8,Ring,Mean H3K36me2: Promoter,0.7733918128654971
+9,Ring,Mean H3K36me2: Gene_Body,0.7792397660818714
+10,Ring,Mean H3K36me3: Promoter,0.7807017543859649
+11,Ring,Mean H3K36me3: Gene_Body,0.7777777777777778
+12,Ring,Mean H3K9me3: Promoter,0.7748538011695907
+13,Ring,Mean H3K9me3: Gene_Body,0.7792397660818714
+14,Ring,Mean H4K20me3: Promoter,0.77046783625731
+15,Ring,Mean H4K20me3: Gene_Body,0.7719298245614035
+16,Ring,Mean jiangH3K4me3: Promoter,0.7646198830409356
+17,Ring,Mean jiangH3K4me3: Gene_Body,0.7573099415204678
+18,Ring,Mean GC Content: Promoter,0.7690058479532164
+19,Ring,Mean GC Content: Gene_Body,0.7660818713450293
+20,Ring,distToTelomeres,0.7646198830409356
+21,Ring,distToCentromeres,0.7660818713450293
+22,Ring,distToCenter,0.7675438596491229
+23,Trophozite,Mean Nucleosome Occupancy: Promoter,0.7251461988304093
+24,Trophozite,Mean Nucleosome Occupancy: Gene_Body,0.723943661971831
+25,Trophozite,Mean bartfaiH3K4me3: Promoter,0.7323943661971831
+26,Trophozite,Mean bartfaiH3K4me3: Gene_Body,0.6929577464788732
+27,Trophozite,Mean H3K9Ac: Promoter,0.7353801169590644
+28,Trophozite,Mean H3K9Ac: Gene_Body,0.7281690140845071
+29,Trophozite,Mean H2Az: Promoter,0.7251461988304093
+30,Trophozite,Mean H2Az: Gene_Body,0.7295774647887324
+31,Trophozite,Mean GC Content: Promoter,0.7281690140845071
+32,Trophozite,Mean GC Content: Gene_Body,0.7280701754385965
+33,Trophozite,distToTelomeres,0.7266081871345029
+34,Trophozite,distToCentromeres,0.7267605633802817
+35,Trophozite,distToCenter,0.7207602339181286
+36,Schizont,Mean Nucleosome Occupancy: Promoter,0.7368421052631579
+37,Schizont,Mean Nucleosome Occupancy: Gene_Body,0.7397660818713451
+38,Schizont,Mean bartfaiH3K4me3: Promoter,0.7470760233918129
+39,Schizont,Mean bartfaiH3K4me3: Gene_Body,0.7339181286549707
+40,Schizont,Mean H3K9Ac: Promoter,0.7339181286549707
+41,Schizont,Mean H3K9Ac: Gene_Body,0.7266081871345029
+42,Schizont,Mean H2Az: Promoter,0.7280701754385965
+43,Schizont,Mean H2Az: Gene_Body,0.7368421052631579
+44,Schizont,Mean H3K36me2: Promoter,0.7383040935672515
+45,Schizont,Mean H3K36me2: Gene_Body,0.7309941520467836
+46,Schizont,Mean H3K36me3: Promoter,0.7339181286549707
+47,Schizont,Mean H3K36me3: Gene_Body,0.7178362573099415
+48,Schizont,Mean H3K9me3: Promoter,0.7309941520467836
+49,Schizont,Mean H3K9me3: Gene_Body,0.7412280701754386
+50,Schizont,Mean H4K20me3: Promoter,0.7368421052631579
+51,Schizont,Mean H4K20me3: Gene_Body,0.7266081871345029
+52,Schizont,Mean jiangH3K4me3: Promoter,0.7368421052631579
+53,Schizont,Mean jiangH3K4me3: Gene_Body,0.7368421052631579
+54,Schizont,Mean GC Content: Promoter,0.7412280701754386
+55,Schizont,Mean GC Content: Gene_Body,0.7266081871345029
+56,Schizont,distToTelomeres,0.72953216374269
+57,Schizont,distToCentromeres,0.7353801169590644
+58,Schizont,distToCenter,0.7280701754385965
